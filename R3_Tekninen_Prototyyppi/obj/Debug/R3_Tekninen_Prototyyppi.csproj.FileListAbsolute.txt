@@ -1,0 +1,6 @@
+D:\AMK\Kurssit\Mökkiprojekti\Tekninen_prototyyppi\R3_Tekninen_Prototyyppi\R3_Tekninen_Prototyyppi\bin\Debug\R3_Tekninen_Prototyyppi.exe.config
+D:\AMK\Kurssit\Mökkiprojekti\Tekninen_prototyyppi\R3_Tekninen_Prototyyppi\R3_Tekninen_Prototyyppi\bin\Debug\R3_Tekninen_Prototyyppi.exe
+D:\AMK\Kurssit\Mökkiprojekti\Tekninen_prototyyppi\R3_Tekninen_Prototyyppi\R3_Tekninen_Prototyyppi\bin\Debug\R3_Tekninen_Prototyyppi.pdb
+D:\AMK\Kurssit\Mökkiprojekti\Tekninen_prototyyppi\R3_Tekninen_Prototyyppi\R3_Tekninen_Prototyyppi\obj\Debug\R3_Tekninen_Prototyyppi.csprojResolveAssemblyReference.cache
+D:\AMK\Kurssit\Mökkiprojekti\Tekninen_prototyyppi\R3_Tekninen_Prototyyppi\R3_Tekninen_Prototyyppi\obj\Debug\R3_Tekninen_Prototyyppi.exe
+D:\AMK\Kurssit\Mökkiprojekti\Tekninen_prototyyppi\R3_Tekninen_Prototyyppi\R3_Tekninen_Prototyyppi\obj\Debug\R3_Tekninen_Prototyyppi.pdb
